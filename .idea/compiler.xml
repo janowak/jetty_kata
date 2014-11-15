@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="jetty_kata_2" />
+        <module name="market" />
       </profile>
     </annotationProcessing>
   </component>
