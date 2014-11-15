@@ -1,4 +1,4 @@
-package com.360t;
+package com.katas.market;
 
 /**
  * Hello world!
